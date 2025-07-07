@@ -40,3 +40,7 @@ h1 {
   margin-top: 3rem;
   gap: 5rem;
 }
+#user-score,
+#comp-score {
+  font-size: 4rem;
+}
