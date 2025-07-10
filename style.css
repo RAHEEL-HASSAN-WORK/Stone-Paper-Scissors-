@@ -41,7 +41,7 @@ h1 {
   gap: 5rem;
 }
 #user-score,
-#comp-score {
+#computer-score {
   font-size: 4rem;
 }
 .msg-container {
